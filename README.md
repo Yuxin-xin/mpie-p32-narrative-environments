@@ -32,12 +32,12 @@ Ask the person next to you or one of the teaching team to walk/play through your
 ## Optional extensions:
 
 - Decals: Decals allow you to add detail to environments, planes called decals can be added to walls and floors, to add features such as cracks, dirt, stains or graffiti. To make a decal:
-  a. Make a PNG or TGA in Photoshop with a clear background. 
-  b. Import it as a texture into Unity
-  c. Make sure it is marked as alpha transparent (select in the asset window and check its properties in the inspector.
-  d. Make a material that supports alpha transparency: experiment with different materials from Unity’s built in shaders. 
-  e. Make a quad object (GameObject>3D Objects>Quad) and apply the material to it.
-  f. Move that object until it’s flat on the floor or against walls.
+  - Make a PNG or TGA in Photoshop with a clear background. 
+  - Import it as a texture into Unity
+  - Make sure it is marked as alpha transparent (select in the asset window and check its properties in the inspector.
+  - Make a material that supports alpha transparency: experiment with different materials from Unity’s built in shaders. 
+  - Make a quad object (GameObject>3D Objects>Quad) and apply the material to it.
+  - Move that object until it’s flat on the floor or against walls.
   - You can also find premade decals in the Unity store.
 - Motion: Using some of the simple scripting techniques taught in previous weeks. Can you add some simple motion to objects to further communicate your narrative? 
 - Extend the narrative to include an outdoor scene. You can import your indoor environment to previous terrain practicals or create a new outdoor scene to follow your narrative plan. 
